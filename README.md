@@ -2,7 +2,7 @@
 
 A visually stunning and blazing-fast web application for modern invoice and estimate management, built for freelancers and small businesses.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/amarbir-byte/invoice-maker)
 
 Zenvoice is a sophisticated, minimalist web application designed for freelancers and small businesses to manage invoices and estimates with ease. Built on Cloudflare's edge network, it offers a lightning-fast, secure, and reliable experience. The application provides a comprehensive suite of features including client management, invoice creation and tracking, estimate conversion, and insightful dashboard analytics. Its design prioritizes a clean, intuitive user interface and a stunning visual aesthetic, making financial management a delightful and stress-free process. The architecture is built for scalability, supporting multiple users and businesses within a multi-tenant system.
 
@@ -89,7 +89,7 @@ This project is designed for deployment on the Cloudflare network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/amarbir-byte/invoice-maker)
 
 ## 🏛️ Architecture
 
